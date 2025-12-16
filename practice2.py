@@ -29,7 +29,7 @@ def iframe_problems(driver, wait):
     # 3. 원래 창(default content)으로 복귀 후, h1 확인
     driver.xxx
     header = wait.until(EC.presence_of_element_located((By.TAG_NAME, "h1")))
-    print("ifram 문제3(원래창 헤더 text):", header.text)
+    print("ifram 문제(원래창 헤더 text):", header.text)
 
 
 
