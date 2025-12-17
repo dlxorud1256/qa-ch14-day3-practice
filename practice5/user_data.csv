@@ -1,0 +1,18 @@
+text,email,pwd
+Hello,a@test.com,1234
+World,b@test.com,abcd
+Selenium,c@test.com,pass123
+TestUser1,user1@example.com,Password1!
+TestUser2,user2@example.com,Secret123
+Alice,alice@mail.com,alicePwd2025
+Bob,bob123@mail.com,Bob@2025
+Charlie,charlie_xyzmail.com,C123!abc  # 이메일 이상    
+Delta,delta-user@mail.com,DeltaPass#1
+Echo,echo.echo@mail.com,Echo!2025
+Foxtrot,foxtrot@mail.com,F0xtr0t!2025
+,normal@mail.com,Pass1234             # 텍스트 비움
+Golf,golfing@mail.com,G0lfPass!
+Hotel,hotel123@mail.com,H0tel!Pass
+India,india_user@mail.com,India2025!
+Juliet,juliet.j@mail.com,Juli3t#Pwd
+Hello,,Pass1234                        # 이메일 비움
